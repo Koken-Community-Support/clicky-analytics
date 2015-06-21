@@ -11,3 +11,6 @@ Add Clicky Analytics to your [Koken](http://koken.me) CMS.
 - The Plugin should now show up in your AdminCP/Plugins/ section.
 - Enable the Plugin, click on Setup and add the correct path to your Clicky installation. **Important:** No trailing slashes!
 - Done!
+
+## Support
+As always support and bugreports are handled through [Koken Community Support] (http://kokensupport.varoystrand.se/viewtopic.php?f=17&t=48) forums.
