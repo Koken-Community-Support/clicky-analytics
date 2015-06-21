@@ -1,0 +1,13 @@
+# Clicky Analytics Plugin for Koken CMS
+===
+
+Add Clicky Analytics to your [Koken](http://koken.me) CMS.
+
+## Instructions:
+
+- Navigate to your Koken Plugin Directory `storage/plugins/`
+- Run `git clone https://github.com/blackskorpio/clicky-analytics.git`
+- Make sure the permissions are correct. `chown -R www-data:www-data clicky-analytics`
+- The Plugin should now show up in your AdminCP/Plugins/ section.
+- Enable the Plugin, click on Setup and add the correct path to your Clicky installation. **Important:** No trailing slashes!
+- Done!

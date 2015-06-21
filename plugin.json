@@ -1,0 +1,22 @@
+{ 
+	"name": "Clicky Analytics",
+	"version": "1.0",
+	"description": "Automatically add Clicky tracking code to any theme.",
+	"author": {
+		"name": "Bjarne Varoystrand",
+		"link": "http://varoystrand.se/"
+	},
+
+	"data": {
+		"site_id": {
+			"label": "Site ID",
+			"info": "You can find your Site ID by searching for ?idsite= in your tracking code.",
+			"type": "string",
+			"validation": {
+				"type": "regex",
+				"rule":	"[0-9]*",
+				"error_message": "Not a valid Site ID. Only Integers allowed."
+			}
+		}
+	}
+}
