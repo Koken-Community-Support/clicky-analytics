@@ -3,6 +3,12 @@
 
 Add Clicky Analytics to your [Koken](http://koken.me) CMS.
 
+Clicky is a real time web analytics service that enables you to have an accurate view of your website traffic. Unlike other web traffic monitoring services, Clicky Web Analytics displays statistics and complete information, in real time, about your current web traffic.
+
+[Clicky Analytics] (http://clicky.com/) is a Koken! plugin that allows rapid integration and configuration of Clicky Web Analytics code, on your website, without having to edit your lens files, or any other Koken! file.
+
+Automatically places the asynchronous version of the Clicky tracking code on every page of your Koken web site.
+
 ## Instructions:
 
 - Navigate to your Koken Plugin Directory `storage/plugins/`
