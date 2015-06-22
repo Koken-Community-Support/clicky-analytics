@@ -21,4 +21,4 @@ Automatically places the asynchronous version of the Clicky tracking code on eve
 "Full docs can be read here: http://varoystrand.se/sidor/clicky-web-analytics-for-koken-cms/
 
 ## Support
-As always support and bugreports are handled through [Koken Community Support] (http://kokensupport.varoystrand.se/viewtopic.php?f=17&t=48) forums.
+As always support and bug reports are handled through [Koken Community Support] (http://kokensupport.varoystrand.se/viewtopic.php?f=17&t=48) forums.
